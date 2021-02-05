@@ -1,4 +1,9 @@
-﻿using System;
+﻿//CNCTools.cs
+//Programmer: Rob Garner (rgarner7@cnm.edu)
+//Date: 4 Feb 2021
+//Purpose: Store information about CNC tools
+
+using System;
 using System.Collections.Generic;
 using System.Text;
 
