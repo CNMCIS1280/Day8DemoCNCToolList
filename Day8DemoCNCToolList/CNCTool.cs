@@ -12,6 +12,7 @@ namespace Day8DemoCNCToolList
     public class CNCTool
     {
         //TODO: Hey rob is this how we chain constructors? JS
+        //TODO: Yes that is absolutely correct! Well done! RJG
         public CNCTool():this(-1, "New Tool created on " + DateTime.Now.ToString("s"),
             "Flat endmill",3.0f,.25f,1.5f)
         {
