@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day8DemoCNCToolList", "Day8DemoCNCToolList\Day8DemoCNCToolList.csproj", "{4ECBC8A6-F20D-4A04-9E0B-C6EB1DF7AD79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ECBC8A6-F20D-4A04-9E0B-C6EB1DF7AD79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ECBC8A6-F20D-4A04-9E0B-C6EB1DF7AD79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ECBC8A6-F20D-4A04-9E0B-C6EB1DF7AD79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ECBC8A6-F20D-4A04-9E0B-C6EB1DF7AD79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B77A2D9-B232-4C6F-B236-28E5C009C441}
+	EndGlobalSection
+EndGlobal
